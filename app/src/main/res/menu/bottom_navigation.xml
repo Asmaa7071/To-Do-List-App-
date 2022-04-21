@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_active_tasks"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="Active" />
+
+    <item
+        android:id="@+id/item_done_tasks"
+        android:icon="@drawable/ic_baseline_done_all_24"
+        android:title="Done" />
+
+    <item
+        android:id="@+id/item_archive_tasks"
+        android:icon="@drawable/ic_baseline_archive_24"
+        android:title="Archive" />
+
+</menu>
